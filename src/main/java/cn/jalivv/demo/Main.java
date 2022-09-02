@@ -28,6 +28,5 @@ public class Main {
 
         SendResponse response = bot.execute(request);
         System.out.println("re"+null);
-        System.out.println("re"+null);
     }
 }
